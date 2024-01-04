@@ -9,3 +9,6 @@
 $ ls -all
 list all of the content in the current directory
 ```
+- [ ] list not checked
+- [X] list checked
+- [ ] last text of list
